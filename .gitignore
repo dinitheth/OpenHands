@@ -1,7 +1,6 @@
 # i18n translation files make by script using `make build`
 public/locales/**/*
 src/i18n/declaration.ts
-.env
 .envrc
 node_modules/
 build/
@@ -39,3 +38,4 @@ build-fresh/
 /resources/bin/
 # Downloaded Node.js distribution (populated by `npm run download-node` before packaging)
 /resources/node/
+config.bat
